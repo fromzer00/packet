@@ -1,3 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Spor Paketi" tvg-logo="https://his.gov.tr/uploads/2024-duyurular/2024-secm/12919617_1721062144808156_3492296674784608007_n.jpg" group-title="///𝓑𝓘̇𝓛𝓖𝓘̇𝓛𝓔𝓝𝓓𝓘̇𝓡𝓜𝓔///",///𝓑𝓘̇𝓛𝓖𝓘̇𝓛𝓔𝓝𝓓𝓘̇𝓡𝓜𝓔///
+http://karaalp.xyz:8080/live/rdg4069/cn2404/183792.ts
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="BeIN Sports 4k",BeIN Sports 1 4k
 http://karaalp.xyz:8080/live/Tatvan1313/Bitlishizan/35650.ts
 #EXTINF:-1 tvg-id="BeIN Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="BeIN Sports 4k",BeIN Sports 1 4k
